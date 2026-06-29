@@ -1,0 +1,6 @@
+The Healthcare_Dataset is a structured collection of patient health-related records compiled to support data analysis, machine learning applications, and clinical research. It typically includes information such as patient demographics, medical history, vital signs, laboratory test results, diagnoses, treatments, and health outcomes. The dataset is organized in tabular format, with each row representing an individual patient or clinical visit and each column describing specific attributes related to health status or healthcare services.
+This dataset is widely used for building predictive models, identifying disease patterns, analyzing risk factors, and performing exploratory data analysis in healthcare analytics.
+
+The file Healthcare.csv contains structured healthcare data compiled to support data analysis, machine learning, and clinical research. 
+Each row in the file represents an individual patient or a unique medical record, while each column corresponds to a specific attribute related to patient demographics, medical conditions, diagnostic test results, or treatment details. 
+This file serves as the primary dataset for exploratory analysis, preprocessing, model building, and performance evaluation in healthcare-related machine learning tasks.
